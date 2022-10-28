@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T15:11:25.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9_1SRnvpg7Fb8qDZNPr2" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T15:22:15.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Of4ikv_8JW3xPprJt_tc" version="20.5.1" type="github">
   <diagram id="LN_cJp_INt4z-yhBpaIy" name="第 1 页">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,16 +19,19 @@
         <mxCell id="3RIrm1LYNLzUfY1mTmxU-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;单车优化构建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3RIrm1LYNLzUfY1mTmxU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="3RIrm1LYNLzUfY1mTmxU-4" target="3RIrm1LYNLzUfY1mTmxU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3RIrm1LYNLzUfY1mTmxU-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;末端曲线避障&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3RIrm1LYNLzUfY1mTmxU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3RIrm1LYNLzUfY1mTmxU-5" target="3RIrm1LYNLzUfY1mTmxU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3RIrm1LYNLzUfY1mTmxU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3RIrm1LYNLzUfY1mTmxU-5" target="3RIrm1LYNLzUfY1mTmxU-4">
+        <mxCell id="3RIrm1LYNLzUfY1mTmxU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3RIrm1LYNLzUfY1mTmxU-5" target="3RIrm1LYNLzUfY1mTmxU-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="200" />
+              <mxPoint x="495" y="200" />
               <mxPoint x="810" y="200" />
             </Array>
           </mxGeometry>
@@ -39,23 +42,23 @@
         <mxCell id="3RIrm1LYNLzUfY1mTmxU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3RIrm1LYNLzUfY1mTmxU-5" target="3RIrm1LYNLzUfY1mTmxU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3RIrm1LYNLzUfY1mTmxU-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="3RIrm1LYNLzUfY1mTmxU-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;非完整约束运输机器人协同轨迹规划&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="70" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3RIrm1LYNLzUfY1mTmxU-13" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;opacity=10;strokeWidth=5;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="250" width="640" height="370" as="geometry" />
+          <mxGeometry x="80" y="240" width="640" height="370" as="geometry" />
         </mxCell>
         <mxCell id="3RIrm1LYNLzUfY1mTmxU-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="3RIrm1LYNLzUfY1mTmxU-14" target="3RIrm1LYNLzUfY1mTmxU-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3RIrm1LYNLzUfY1mTmxU-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;考虑运动学的&lt;br&gt;MAPF启发式搜索&lt;br&gt;（对比原CBS栅格搜索）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="370" width="220" height="80" as="geometry" />
+        <mxCell id="3RIrm1LYNLzUfY1mTmxU-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;考虑运动学的&lt;br&gt;MAPF启发式搜索&lt;br&gt;（实验：对比原CBS栅格搜索）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3RIrm1LYNLzUfY1mTmxU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="3RIrm1LYNLzUfY1mTmxU-15" target="3RIrm1LYNLzUfY1mTmxU-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3RIrm1LYNLzUfY1mTmxU-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;碰撞学模型修改&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="380" width="100" height="60" as="geometry" />
+          <mxGeometry x="370" y="385" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3RIrm1LYNLzUfY1mTmxU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="3RIrm1LYNLzUfY1mTmxU-14" target="3RIrm1LYNLzUfY1mTmxU-14">
           <mxGeometry relative="1" as="geometry" />
@@ -78,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3RIrm1LYNLzUfY1mTmxU-20" value="分组优先级优化" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="520" width="100" height="60" as="geometry" />
+          <mxGeometry x="170" y="520" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3RIrm1LYNLzUfY1mTmxU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="3RIrm1LYNLzUfY1mTmxU-21" target="3RIrm1LYNLzUfY1mTmxU-22">
           <mxGeometry relative="1" as="geometry" />
@@ -88,6 +91,9 @@
         </mxCell>
         <mxCell id="3RIrm1LYNLzUfY1mTmxU-22" value="异形走廊构建" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RIrm1LYNLzUfY1mTmxU-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=16;gradientColor=none;textOpacity=10;labelBackgroundColor=none;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="730" y="255" width="320" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
